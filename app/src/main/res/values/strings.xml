@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="buttonText">Tap</string>
+    <string name="outputText">0</string>
+</resources>
